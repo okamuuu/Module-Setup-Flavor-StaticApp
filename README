@@ -4,6 +4,9 @@ DOCUMENTATION
     % export PERL5LIB=$PWD/Module-Setup-Flavor-StaticApp/lib:$PERL5LIB
     % module-setup --init --flavor-class=StaticApp StaticApp 
     % module-setup MyApp StaticApp 
+    % cd MyApp
+    % sh script/phantomjs_test.sh
+    % sh script/jstestdriver.sh
 
 AUTHOR
 
