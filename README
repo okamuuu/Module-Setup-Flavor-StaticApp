@@ -1,6 +1,6 @@
 DOCUMENTATION
 
-    % git clone git@github.com:okamuuu/Module-Setup-Flavor-StaticApp.git
+    % git clone https@github.com:okamuuu/Module-Setup-Flavor-StaticApp.git
     % export PERL5LIB=$PWD/Module-Setup-Flavor-StaticApp/lib:$PERL5LIB
     % module-setup --init --flavor-class=StaticApp StaticApp 
     % module-setup MyApp StaticApp 
